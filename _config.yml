@@ -60,7 +60,8 @@ plugins:
 author:
   name   : "Dallan Prince"
   avatar : "/assets/images/canoing_headshot.jpg"
-  bio    : "Bringing ideas to life. Chemical engineering. Data science. R. Music composition. Piano. Canoe building. 3D Printing. Wild animal (kids) taming :)"
+  bio    : "Hatching ideas and helping them fly. Chemical engineering. Data science. R. Music. Canoe building. 3D Printing. Housetraining my favorite kids."
+  location : "Bartlesville, OK"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
