@@ -16,7 +16,7 @@ This is how I knew it was time to build a canoe:
 - Buying a canoe sounds fun, but I'd prefer a nice Wenonah at generic sporting store price.
 - YouTubers demonstrate cedar strip builds and it looks doable.
 - Ignore indications that it could take 500 hours, assume I can do it in 40.
-- [Ashes Stillwater Boats](www.ashesstillwaterboats.com) had nice plans, and the Angler's Special looked good.
+- [Ashes Stillwater Boats](https://www.ashesstillwaterboats.com) had nice plans, and the Angler's Special looked good.
 <!--more-->
 - Running low on special projects to keep things interesting.
 
