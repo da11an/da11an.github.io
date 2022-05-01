@@ -24,8 +24,8 @@ twitter_username: da11an
 github_username: da11an
 minimal_mistakes_skin: air
 search: true
-teaser: /assets/images/lightbulb_wings.png
-logo: /assets/images/lightbulb_wings_square.png
+teaser: /assets/images/lightbulb_wings_square.png
+logo: /android-chrome-144x144.png
 
 # Build settings
 markdown: kramdown
