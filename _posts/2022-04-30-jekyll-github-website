@@ -16,4 +16,5 @@ I initialized my repo with the theme and pulled a copy to my computer for custom
 My workflow is currently to make and commit changes locally then push them to Github; Github actions rebuilds and reloads the website and a minute later I check if my changes had the desired effect.
 Soon after getting started, I stumbled on [Katerina Bosko's helpful series](https://www.cross-validated.com/Personal-Website-Mission-accomplished/) on setting up and customizing the Minimal Mistakes Jekyll theme.
 Katerina describes setting up a Docker container for development which would be handy, but isn't strictly necessary.
+The [Minimal Mistakes documentation](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) has also been very helpful.
 
