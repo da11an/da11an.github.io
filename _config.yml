@@ -27,9 +27,9 @@ search: true
 teaser: /assets/images/lightbulb_wings_square.png
 logo: /android-chrome-144x144.png
 comments:
-  provider: "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider: "disqus"
   disqus:
-    shortname: ideaviation # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: "ideaviation"
 
 # Build settings
 markdown: kramdown

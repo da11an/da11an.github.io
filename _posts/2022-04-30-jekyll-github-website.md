@@ -1,6 +1,5 @@
 ---
 title: "Building this website"
-comments: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
