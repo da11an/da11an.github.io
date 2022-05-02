@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ideaviation
+              : true
 email: dallan.prince@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Giving ideas their wings.
@@ -26,6 +27,10 @@ minimal_mistakes_skin: air
 search: true
 teaser: /assets/images/lightbulb_wings_square.png
 logo: /android-chrome-144x144.png
+comments:
+  provider: "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname: ideaviation # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # Build settings
 markdown: kramdown
