@@ -1,10 +1,24 @@
 ---
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+title: "i·de·a·vi·a·tion"
+layout: splash
 author_profile: true
-title: "i·de·a·vi·a·tion | ideas taking flight"
 header:
     og_image: assets/images/lightbulb_wings.png
     overlay_image: assets/images/canoe_wide.jpg
-    caption: Canoeing Copan Lake with kids!
+    caption: Canoeing Copan Lake
+excerpt: "ideas taking flight"
+intro:
+    - excerpt: "The whole difference between construction and creation is exactly this: that a thing constructed can only be loved after it is constructed; but a thing created is loved before it exists. -- Charles Dickens"
+feature_row:
+    - image_path: /assets/images/bio-photo.jpg
+      alt: "placeholder image 1"
+      title: "Placeholder 1"
+      excerpt: "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine and at last you create what you will. -- George Bernard Shaw"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
