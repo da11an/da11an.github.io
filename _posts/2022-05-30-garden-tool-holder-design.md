@@ -26,7 +26,11 @@ All design work was done in Tinkercad.
 
 ## Pictures and .STL file
 
-![Final](assets/images/tool-holder-final-pink.jpg)
-![Mass Production](assets/images/tool-holder-x12.jpg)
-[The latest version can be downloaded from Thingiverse or Printables](https://www.printables.com/model/217403-versatile-wall-mount-for-garden-tools-canoe-paddle)
+![](assets/images/tool-holder-final-pink.jpg)
+*Final Version with prototypes in background*
+
+![](assets/images/tool-holder-x12.jpg)
+*Batch of 12 midprint*
+
+The latest version can be downloaded for printing from Thingiverse or [Printables](https://www.printables.com/model/217403-versatile-wall-mount-for-garden-tools-canoe-paddle)
 
