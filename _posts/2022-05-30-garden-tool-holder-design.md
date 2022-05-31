@@ -32,5 +32,5 @@ All design work was done in Tinkercad.
 ![Batch of 12 midprint](/assets/images/tool-holder-x12.jpg)
 *Batch of 12 midprint*
 
-The latest version can be downloaded for printing from Thingiverse or [Printables](https://www.printables.com/model/217403-versatile-wall-mount-for-garden-tools-canoe-paddle).
+The latest version can be downloaded for printing from [Thingiverse](https://www.thingiverse.com/thing:5399330) or [Printables](https://www.printables.com/model/217403).
 
