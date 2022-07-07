@@ -11,7 +11,7 @@ tags:
 
 ### Top Pick Any Price
 
-[Prusa i3 MK3S+](https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/)
+[Prusa i3 MK3S+ $799 (kit) or $1099 (assembled)](https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/)
 
 I recommend buying an extra removable print sheet. They come in multiple finishes for different materials. Make sure you are covered for the materials you buy. I am linking the kit version. They have good instructions and there are YouTube videos. It will take 10 hours or so to assemble, but you'll know how the printer works when something does eventually go wrong or need maintenance. Mostly assembled versions are also available if you want to save the trouble.
 
@@ -19,9 +19,10 @@ I recommend buying an extra removable print sheet. They come in multiple finishe
 
 ### Under $500
 
-[Prusa MINI+ kit](https://www.prusa3d.com/product/original-prusa-mini-kit-2/)
+[Prusa MINI+ $429 (kit) $459 (assembled)](https://www.prusa3d.com/product/original-prusa-mini-kit-2/)
 
 The kits run something like $350, plus a little more to get an extra print sheet. It will be very reliable like its bigger brother the i3, but has a key distinction, besides having a smaller print volume: it has a Bowden style extruder. This means the motor pushing filament into the heated nozzle is fixed on the frame of the printer rather then sitting right on top of the nozzle. For a flexible filament, this could result in lower quality prints than you'd get with a direct drive extruder (like the i3 has). On the plus side, it has a much smaller footprint, so if you're limited on space, that might be a significant factor.
+I recommend adding a filament sensor and an extra sheet if needed for the kinds of filaments you may want to print with.
 
 ### Why Prusa
 
